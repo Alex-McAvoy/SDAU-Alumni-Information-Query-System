@@ -49,7 +49,16 @@ npm run dev
 
 ## 部署
 
-暂无
+1. 前端打包后，使用 nginx 部署
+2. 后端（server 文件夹）直接运行
+
+```sh
+# 启动
+sh ./start.sh
+# 停止
+sh ./stop.sh
+```
+
 
 ## 使用到的框架
 
