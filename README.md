@@ -1,10 +1,6 @@
 # SDAU-Alumni-Information-Query-System
 
-<br />
-
 SDAU 万名学子联万村校友查询系统
-
-<br />
 
 ## 目录
 
@@ -57,7 +53,7 @@ npm run dev
 
 ## 使用到的框架
 
-- [Vue](https://uniapp.dcloud.net.cn/](https://cn.vuejs.org/)
-- [Node 16.18.1](https://nodejs.org)https://nodejs.org)
+- [Vue](https://cn.vuejs.org/)
+- [Node 16.18.1](https://nodejs.org)
 
 
