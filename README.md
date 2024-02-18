@@ -54,9 +54,9 @@ npm run dev
 
 ```sh
 # 启动
-sh ./start.sh
+sh ./server/start.sh
 # 停止
-sh ./stop.sh
+sh ./server/stop.sh
 ```
 
 
