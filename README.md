@@ -2,21 +2,9 @@
 
 <br />
 
-<p align="center">
-  <h2 align="center">SDAU 万名学子联万村校友查询系统</h2>
-</p>
-<p align="center">
-  <p align="center">
-    <a href="https://github.com/Alex-McAvoy/SDAU-Alumni-Information-Query-System"><strong>探索本项目的文档 »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Alex-McAvoy/SDAU-Alumni-Information-Query-System/issues">报告Bug</a>
-    ·
-    <a href="https://github.com/Alex-McAvoy/SDAU-Alumni-Information-Query-System/issues">提出新特性</a>
-  </p>
-</p>
+SDAU 万名学子联万村校友查询系统
 
-
+<br />
 
 ## 目录
 
