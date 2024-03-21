@@ -19,13 +19,13 @@ SDAU 万名学子联万村校友查询系统
 1. 克隆项目
 
 ```sh
-git clone https://github.com/Alex-McAvoy/Legends-of-the-Three-Kingdoms-Offline-Assistant.git
+git clone https://github.com/Alex-McAvoy/SDAU-Alumni-Information-Query-System.git
 ```
 
 2. 进入项目文件夹并安装依赖
 
 ```sh
-cd ./Legends-of-the-Three-Kingdoms-Offline-Assistant
+cd ./SDAU-Alumni-Information-Query-System
 npm i
 ```
 
