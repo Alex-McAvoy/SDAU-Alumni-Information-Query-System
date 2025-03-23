@@ -1,6 +1,6 @@
 # SDAU-Alumni-Information-Query-System
 
-SDAU 万名学子联万村校友查询系统
+SDAU 万名学子联万村校友查询系统 V2.0
 
 ## 目录
 
